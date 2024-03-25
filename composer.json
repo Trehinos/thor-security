@@ -1,5 +1,5 @@
 {
-  "name": "trehinos/thor-securiy",
+  "name": "trehinos/thor-security",
   "type": "library",
   "description": "Base du système de sécurité de Thor",
   "minimum-stability": "stable",
